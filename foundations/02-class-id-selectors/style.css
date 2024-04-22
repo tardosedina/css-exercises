@@ -6,3 +6,8 @@
 .oddbg.tfont {
     font-size: 24px;
 }
+
+#bluefont {
+    color: blue;
+    font-size: 36px;
+}
