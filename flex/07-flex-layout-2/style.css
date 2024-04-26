@@ -18,6 +18,7 @@ body {
 
 .content {
   display: flex;
+  flex-shrink: 0;
 }
 
 .cards {
@@ -39,7 +40,7 @@ body {
   background: royalblue;
   box-sizing: border-box;
   display: flex;
-  flex-direction: column;
+  flex-shrink: 0;
 }
 
 .card {
