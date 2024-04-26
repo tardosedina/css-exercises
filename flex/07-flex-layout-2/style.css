@@ -18,7 +18,11 @@ body {
 
 .content {
   display: flex;
+}
 
+.cards {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .footer {
@@ -44,4 +48,5 @@ body {
   border-radius: 4px;
   width: 200px;
   margin: 5px;
+  padding: 3px;
 }
